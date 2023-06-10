@@ -7,7 +7,6 @@
 127.0.0.1 h5.hpplay.com.cn
 127.0.0.1 tvapi.kuyun.com
 127.0.0.1 msg.qy.net
-127.0.0.1 api.io.mi.com
 127.0.0.1 v.admaster.com.cn
 127.0.0.1 ott.da.mgtv.com
 127.0.0.1 cdn.ad.xiaomi.com
@@ -61,7 +60,6 @@
 127.0.0.1 gallery.pandora.xiaomi.com
 127.0.0.1 adcdn.hpplay.cn
 127.0.0.1 pandora.mi.com
-127.0.0.1 localhost
 127.0.0.1 lives.l.aiseet.atianqi.com
 127.0.0.1 app.chat.xiaomi.net
 127.0.0.1 msg.ptqy.gitv.tv
